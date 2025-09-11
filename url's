@@ -28,3 +28,12 @@ BaseDatos('localhost','root','','cinestar');
 
 luego hacer consulta en Thunder (previamente instalado la extensión)
 http://localhost/cinestar_sweb_php/cines -> presionar botón send
+
+http://localhost/cinestar_sweb_php/cines
+http://localhost/cinestar_sweb_php/cines/1
+http://localhost/cinestar_sweb_php/peliculas/cartelera
+http://localhost/cinestar_sweb_php/peliculas/estrenos
+http://localhost/cinestar_sweb_php/peliculas/1
+
+  Tareas ->
+  T1 Diseñar Login -> https://www.youtube.com/watch?v=H8ThscWsQV8&list=PLA9oyBlTfuCguMi9PTwvA2ewTPJ7701EI
