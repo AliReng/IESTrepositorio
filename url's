@@ -14,3 +14,17 @@ Laravel 12 ->
   Crea una REST API CRUD en Laravel desde Cero -> https://www.youtube.com/watch?v=eLI8c_NtkBk
   Curso Práctico Desarrollo Web en PHP, MVC, POO y MySQL -> https://www.youtube.com/watch?v=N07EW6ln1NI&list=PL3b9xmg86NTKWP3Xzu-1DCwaeO5sftK4V
   API REST -> https://www.youtube.com/watch?v=ZPsjGNPGV8c
+
+http://localhost/cinestar_sweb_php/cines
+
+10/09
+encender xampp
+cargar el mysql (CineStar MySQL) cargarlo presionando el primer rayito y luego irnos a la línea (289) y volver a cargar esa única línea (nos dará una tabla [sólo para ver xd])
+prender cinestar_sweb_php en xampp / localhost , luego abrir VStudio
+renombrar el otro archivo cinestar_html a cinestar_jss , abrirlo también en otra pestaña VStudio
+
+editar en sweb.php
+BaseDatos('localhost','root','','cinestar');
+
+luego hacer consulta en Thunder (previamente instalado la extensión)
+http://localhost/cinestar_sweb_php/cines -> presionar botón send
